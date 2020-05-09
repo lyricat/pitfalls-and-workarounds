@@ -5,7 +5,7 @@ tags: ["Safari", "AudioContext"]
 ---
 
 Last week Cedric and I made a new product named
-“[Morning](https://mornin.fm "an instant audio conferencing service")”,
+“[Mornin](https://mornin.fm "an instant audio conferencing service")”,
 an instant audio conferencing service.
 
 Mornin uses HTML5 AudioContext to handle the media stream and get data from analyzer to draw frequency bars.
