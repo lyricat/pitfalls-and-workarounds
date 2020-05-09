@@ -1,5 +1,5 @@
 ---
-title: getFloatFrequencyData doesn’t update correct values when switch page to background in Safari
+title: HTML5 AudioContext doesn’t update correct values when switch page to background in Safari
 date: 2020-05-09
 tags: ["Safari", "AudioContext"]
 ---
